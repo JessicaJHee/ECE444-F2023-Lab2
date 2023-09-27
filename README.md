@@ -10,10 +10,16 @@ The website is deployed at: https://ece444-f2023-lab2.vercel.app/
 ![Activity 1](/screenshots/activity1.png)
 
 ## Activity 2
-Repo:
+### Repo:
 ![Activity 2-1](/screenshots/activity2_1.png)
 
-Website:
+### Website:
 ![Activity 2-2](/screenshots/activity2_2.png)
 
 ## Activity 3
+### Repo:
+![Alt text](/screenshots/activity3_1.png)
+
+### Website:
+![Alt text](/screenshots/activity3_2.png)
+
